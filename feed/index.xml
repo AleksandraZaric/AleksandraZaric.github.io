@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Goldene Naht</title>
-	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="http://aleksandrazaric.github.io/feed/" rel="self" type="application/rss+xml" />
+	<link>http://aleksandrazaric.github.io/</link>
 	<description>Kleider Ball</description>
 	<lastBuildDate>Sun, 12 Feb 2023 01:04:04 +0000</lastBuildDate>
 	<language>en-GB</language>
